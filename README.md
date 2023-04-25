@@ -8,7 +8,7 @@ After YOLO
 
 ![result_901](https://user-images.githubusercontent.com/103006899/234307432-8354cc45-cb6e-42fb-86a9-03bff68c5b1f.png)
 
-the submitted
+the submitted format
 
 ![image](https://user-images.githubusercontent.com/103006899/234315601-92246fa9-e394-470e-89ed-8f17e404241f.png)
 
